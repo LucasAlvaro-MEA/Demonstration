@@ -16,5 +16,8 @@ Explicit code can be found : https://github.com/LucasAlvaro-MEA/NXPCUP
 
 This project is coded on Matlab and it's controlling on VREP a robotic arm in order to perform simple tasks as writing or picking.
 Robotis6ddl is a picture of the control on VREP.
-Explicit code can be found :https://github.com/LucasAlvaro-MEA/Manipulation-robotic
+Explicit code can be found : https://github.com/LucasAlvaro-MEA/Manipulation-robotic
 
+This project is coded on Vivado by VHDL. 
+I coded on the Basys3 xc7a35tcpg, a digicode.
+Explicit code can be found : https://github.com/LucasAlvaro-MEA/Digicode
